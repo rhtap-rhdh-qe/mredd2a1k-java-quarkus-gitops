@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mredd2a1k-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mredd2a1k-java-quarkus-gitops
